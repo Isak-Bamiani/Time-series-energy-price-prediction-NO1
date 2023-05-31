@@ -1,0 +1,58 @@
+start MTU (UTC)
+end MTU (UTC)
+Day-ahead Price [EUR/MWh] BZN|NO1
+Day-ahead Price [EUR/MWh] BZN|NO2
+Day-ahead Price [EUR/MWh] BZN|NO3
+Day-ahead Price [EUR/MWh] BZN|NO5
+Day-ahead Price [EUR/MWh] BZN|SE3
+Actual Total Load [MW] - BZN|NO1
+Actual Total Load [MW] - BZN|NO2
+Actual Total Load [MW] - BZN|NO3
+Actual Total Load [MW] - BZN|NO5
+Actual Total Load [MW] - BZN|SE3
+Fossil Gas - BZN|NO1
+Hydro Run-of-river and poundage - BZN|NO1
+Hydro Water Reservoir - BZN|NO1
+Other - BZN|NO1
+Waste - BZN|NO1
+Wind Onshore - BZN|NO1
+Fossil Gas - BZN|NO2
+Hydro Pumped Storage Aggregated- BZN|NO2
+Hydro Run-of-river and poundage - BZN|NO2
+Hydro Water Reservoir - BZN|NO2
+Other - BZN|NO2
+Waste - BZN|NO2
+Wind Onshore - BZN|NO2
+Fossil Gas - BZN|NO3
+Hydro Pumped Storage Aggregated- BZN|NO3
+Hydro Run-of-river and poundage - BZN|NO3
+Hydro Water Reservoir - BZN|NO3
+Other - BZN|NO3
+Other renewable - BZN|NO3
+Waste - BZN|NO3
+Wind Onshore - BZN|NO3
+Fossil Gas - BZN|NO5
+Hydro Pumped Storage Aggregated- BZN|NO5
+Hydro Run-of-river and poundage - BZN|NO5
+Hydro Water Reservoir - BZN|NO5
+Other - BZN|NO5
+Waste - BZN|NO5
+Fossil Gas - BZN|SE3
+Hydro Water Reservoir - BZN|SE3
+Nuclear - BZN|SE3
+Other - BZN|SE3
+Solar - BZN|SE3
+Wind Onshore - BZN|SE3
+CBF BZN|NO2 > BZN|NO1 [MW]
+CBF BZN|NO1 > BZN|NO2 [MW]
+CBF BZN|NO3 > BZN|NO1 [MW]
+CBF BZN|NO1 > BZN|NO3 [MW]
+CBF BZN|NO5 > BZN|NO1 [MW]
+CBF BZN|NO1 > BZN|NO5 [MW]
+CBF BZN|SE3 > BZN|NO1 [MW]
+CBF BZN|NO1 > BZN|SE3 [MW]
+Stored Energy Value Water Reservoirs and Hydro Storage Plants [MWh] - BZN|NO1
+Stored Energy Value Water Reservoirs and Hydro Storage Plants [MWh] - BZN|NO2
+Stored Energy Value Water Reservoirs and Hydro Storage Plants [MWh] - BZN|NO3
+Stored Energy Value Water Reservoirs and Hydro Storage Plants [MWh] - BZN|NO5
+Stored Energy Value Water Reservoirs and Hydro Storage Plants [MWh] - BZN|SE3
